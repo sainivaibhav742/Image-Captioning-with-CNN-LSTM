@@ -1,0 +1,16 @@
+# Large model files and datasets
+*.pth
+*.pt
+*.ckpt
+*.safetensors
+*.bin
+*.h5
+*.pkl
+*.npz
+
+# Ignore full dataset folders
+flickr8k_dataset/
+models/
+__pycache__/
+static/tts_output/
+backend/data/images_full/    # Add this if you're keeping only sample images
