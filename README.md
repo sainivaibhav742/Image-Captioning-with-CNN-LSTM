@@ -31,7 +31,5 @@ This project generates human-like image captions using a deep learning model tha
 ---
 
 
-- 🔄 **Fully Offline**  
-  Run the entire pipeline locally without needing an internet connection.
 
 
