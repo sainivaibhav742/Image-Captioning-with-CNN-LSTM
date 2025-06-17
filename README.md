@@ -1,7 +1,17 @@
-<<<<<<< HEAD
-# Project Three
+# 🖼️ Image Captioning with CNN-LSTM
 
-Image Captioning with CNN + LSTM
-=======
-# Image-Captioning-with-CNN-LSTM
->>>>>>> ad473c93d3f5e58f62fdc3c19e0c0403e14c9d21
+This project generates human-like image captions using a deep learning model that combines **Convolutional Neural Networks (CNN)** for image feature extraction and **Long Short-Term Memory (LSTM)** networks for sequence generation.
+
+## 🚀 Project Highlights
+
+- 📷 Image Feature Extraction using **Pretrained CNN (e.g., InceptionV3)**
+- ✍️ Caption Generation using **LSTM-based Decoder**
+- 🧠 Trained on **Flickr8k Dataset**
+- 🔤 Custom **Tokenizer** and **Vocabulary Builder**
+- 🖥️ Flask-powered **Web Interface** to upload and caption any image
+- 📁 Modular code structure for easy experimentation
+
+---
+
+
+
